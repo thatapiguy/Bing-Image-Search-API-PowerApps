@@ -9,3 +9,5 @@ https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-
 
 Bing Image Search API Documentation 
 https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bing-images-api-v7-reference
+
+YouTube video with implementation details - https://youtu.be/etaEVWi-row
