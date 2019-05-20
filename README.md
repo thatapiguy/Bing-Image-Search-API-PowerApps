@@ -3,7 +3,7 @@ Bing Image Search API in PowerApps using Flow
 
 Learn how to search for Images within PowerApps.
 
-Download the package as a .zip file and then import it into PowerApps using "Import a package option" It will import both the PowerApp and the flow associated with it.
+Download the package as a .zip file and then import it into PowerApps using "Import package" option It will import both the PowerApp and the flow associated with it.
 
 Some reference links -
 Bing Image Search API tool
